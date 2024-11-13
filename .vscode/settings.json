@@ -1,0 +1,9 @@
+{
+  "[javascript][javascriptreact][typescript][typescriptreact]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": true
+  },
+  "eslint.workingDirectories": [
+    {"mode": "auto"}
+  ]
+}
